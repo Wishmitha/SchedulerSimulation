@@ -1,0 +1,8 @@
+title: "Shortest Remaining Time First - Process Scheduler Simulation "
+description: "Process Scheduling : Operating Systems"
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
