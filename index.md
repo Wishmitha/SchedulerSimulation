@@ -1,4 +1,14 @@
-Team Members : R.B. Mahanama / W.S. Mendis / T.A.S.Y. Jayathilaka / L.M. Jathilake / S.A.N. Jayasooriya
+**Team Members :** 
+
+R.B. Mahanama
+
+W.S. Mendis
+
+T.A.S.Y. Jayathilaka
+
+L.M. Jathilake
+
+S.A.N. Jayasooriya
 
 **Shortest Remaining Time First Scheduling :**
 
